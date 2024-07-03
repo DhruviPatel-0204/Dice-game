@@ -1,0 +1,40 @@
+body {
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+#heading1{
+    font-size: 7rem;
+}
+button{
+    background-color: grey;
+    border-width: 0px;
+}
+h1 {
+    text-align: center;
+    color: aqua;
+    font-size: 5rem;
+    margin-bottom: 2rem;
+}
+
+.players {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+
+.player {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+h2 {
+    color: aqua;
+    margin-bottom: 1rem;
+}
