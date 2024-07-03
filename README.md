@@ -1,0 +1,1 @@
+This is a simple dice game that I have made using basic HTML, CSS, and JavaScript. When you start the game, the two dice show random numbers, and the result is displayed according to which die has the higher number.
